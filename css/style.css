@@ -1,0 +1,13 @@
+.card{
+    opacity: 85% !important;
+}
+
+.view{
+
+    min-height: 80vh;
+}
+
+#bgimg-info{
+    font-size: small;
+
+}
